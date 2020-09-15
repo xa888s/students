@@ -11,5 +11,5 @@ This repository is a central place for computer science students at Langara to g
 - [Anthony Morris](https://anthonymorris.dev) - Software engineer turned computer science student
   - **Socials:** [Twitter](https://twitter.com/amorriscode), [LinkedIn](https://www.linkedin.com/in/amorriscode/)
   - **Interests:** Tennis, astronomy, reading, building products
-  - **Working On:** [Postage](https://postage.care)
+  - **Working On:** [Postage](https://postage.care), [My second brain 🧠](https://anthonymorris.dev/second-brain)
   - **Looking For:** Collaboration on smaller projects or a simple game
