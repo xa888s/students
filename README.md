@@ -19,7 +19,7 @@ All we ask is that you keep things in _alphabetical order by last name_.
 - [Anthony Morris](https://anthonymorris.dev) - Software engineer turned computer science student
   - **Socials:** [Twitter](https://twitter.com/amorriscode), [LinkedIn](https://www.linkedin.com/in/amorriscode/)
   - **Interests:** Tennis, astronomy, reading, building products
-  - **Working On:** [Postage](https://postage.care), [My second brain 🧠](https://anthonymorris.dev/second-brain)
+  - **Working On:** [Postage](https://postage.care), [We Watch Tech](https://wewatch.tech), [My second brain 🧠](https://anthonymorris.dev/second-brain)
   - **Looking For:** Collaboration on smaller projects or a simple game
 
 - [Jet Simon](http://jetsimon.com/) - Guy who does stuff and makes things
