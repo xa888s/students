@@ -27,3 +27,9 @@ All we ask is that you keep things in _alphabetical order by last name_.
   - **Interests:** Making rock music, making chiptune music, Pixel Art, 3D Modelling, Programming, Game Dev, Cooking 
   - **Working On:** Figuring out how school works!
   - **Looking For:** Collaboration on smaller projects or a simple game. What he said!
+  
+- [Brandon MacKenzie](https://git.cryptid.cc/lost) - Computer Science student
+  - **Socials:** [Matrix (homeserver: https://cryptid.cc)](https://app.element.io/)
+  - **Interests:** Programming (In Rust, maybe a little haskell, C/Java maybe), Skateboarding, Gaming (not as much anymore :( ), Math, Physics
+  - **Working On:** [rmpc (semi-active)](https://git.cryptid.cc/lost/rmpc) and [kraken_api (inactive as of now)](https://git.cryptid.cc/lost/kraken_api)
+  - **Looking For:** Collaboration on smaller projects, or any project really, just looking for people that enjoy programming and publishing their work under free licenses.
