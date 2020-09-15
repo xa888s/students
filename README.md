@@ -6,6 +6,14 @@ This repository is a central place for computer science students at Langara to g
 
 > If you haven't already, make sure you join our [Discord server](https://discord.gg/uy3wCpZ) to collaborate with your fellow students!
 
+## Add Yourself
+
+Please add yourself to the list! Let us know where to find you on the web, what you're interested in, or working on. Feel free to share anything about yourself that you'd like.
+
+All we ask is that you keep things in _alphabetical order by last name_.
+
+[Add yourself to the list](https://github.com/langaracs/students/edit/master/README.md)!
+
 ## Students
 
 - [Anthony Morris](https://anthonymorris.dev) - Software engineer turned computer science student
