@@ -21,3 +21,9 @@ All we ask is that you keep things in _alphabetical order by last name_.
   - **Interests:** Tennis, astronomy, reading, building products
   - **Working On:** [Postage](https://postage.care), [My second brain 🧠](https://anthonymorris.dev/second-brain)
   - **Looking For:** Collaboration on smaller projects or a simple game
+
+- [Jet Simon](http://jetsimon.com/) - Guy who does stuff and makes things
+  - **Socials:** [Twitter](https://twitter.com/SimonJet)
+  - **Interests:** Making rock music, making chiptune music, Pixel Art, 3D Modelling, Programming, Game Dev, Cooking 
+  - **Working On:** Figuring out how school works!
+  - **Looking For:** Collaboration on smaller projects or a simple game. What he said!
